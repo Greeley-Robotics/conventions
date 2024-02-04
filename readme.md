@@ -2,6 +2,9 @@
 
 This repository contains guidelines for developing any future Horace Greeley robotics. The repository contains structural and architectural guidelines as well as linting preferences. If any formatting and/or guideline changes in the future, please update this repository.
 
+<!-- START doctoc -->
+<!-- END doctoc -->
+
 ## Java source files
 
 ### Naming
