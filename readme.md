@@ -2,8 +2,26 @@
 
 This repository contains guidelines for developing any future Horace Greeley robotics. The repository contains structural and architectural guidelines as well as linting preferences. If any formatting and/or guideline changes in the future, please update this repository.
 
-<!-- START doctoc -->
-<!-- END doctoc -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [Java source files](#java-source-files)
+  - [Naming](#naming)
+  - [Comments](#comments)
+  - [Indentation](#indentation)
+    - [Wrapping lines](#wrapping-lines)
+  - [Declarations](#declarations)
+  - [White space](#white-space)
+  - [Misc](#misc)
+  - [Source](#source)
+- [Version control](#version-control)
+  - [Branching](#branching)
+  - [CI/CD](#cicd)
+  - [Commit conventions](#commit-conventions)
+  - [Merge reviews](#merge-reviews)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Java source files
 
