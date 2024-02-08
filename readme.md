@@ -7,6 +7,8 @@ This repository contains guidelines for developing any future Horace Greeley rob
 
 ## Java source files
 
+Minimal ruleset with the most important guidelines.
+
 ### Naming
 
 Variable names must be mnemonic. All variables should be written in camelCase style. Constants are in uppercase and separated by underscores. Any class or interface should start in uppercase and continue in lowercase such as "ImageSprite". Packages should be written in all lowercase ASCII letters. Methods should be written in camelCase style
@@ -17,14 +19,14 @@ Please do not use inline comments. Use the asterisk styled ``/* comment */`` com
 
 ### Indentation
 
-TODO: Add tab indentation size/space
+Tab characters are not used for indentation. The indentation should be 2 spaces.
 Avoid lines longer than 80 characters.
 
 #### Wrapping lines
 
 - Break after comma
 - Break before operator (e.g. +, *)
-- Align the new line with the beginning of the expression in the previous line (or if this leads to too squished code just indent 8 spaces)
+- Align the new line with the beginning of the expression in the previous line (or if this leads to too squished code just indent 4 spaces)
 
 ### Declarations
 
@@ -60,7 +62,7 @@ A line should not be complex. One statement, one line. An if should always have 
 
 ### Source
 
-Most of these rules/guidelines are defined at [Oracle](https://www.oracle.com/java/technologies/javase/codeconventions-introduction.html). If something is unclear please default to Oracle's convention.
+Most of these rules/guidelines are defined at [Google](https://google.github.io/styleguide/javaguide.html). If something is unclear please default to Google's Java conventions.
 
 ## Version control
 
