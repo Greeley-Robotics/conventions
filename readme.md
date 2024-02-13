@@ -4,7 +4,6 @@ This repository contains guidelines for developing any future Horace Greeley rob
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-
 ## Table of Contents
 
 - [Java source files](#java-source-files)
