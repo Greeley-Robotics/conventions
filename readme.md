@@ -20,6 +20,9 @@ This repository contains guidelines for developing any future Horace Greeley rob
   - [CI/CD](#cicd)
   - [Commit conventions](#commit-conventions)
   - [Merge reviews](#merge-reviews)
+- [IDE](#ide)
+  - [Plugins](#plugins)
+  - [Tutorials](#tutorials)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
