@@ -4,7 +4,8 @@ This repository contains guidelines for developing any future Horace Greeley rob
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**
+
+## Table of Contents
 
 - [Java source files](#java-source-files)
   - [Naming](#naming)
@@ -114,3 +115,28 @@ Describe what you changed/added.
 Every branch should be protected by rules through Github.
 A pull request is required for every merge attempt.
 At least one review is required to merge a branch.
+
+## IDE
+
+We are using Visual Studio Code as our default IDE simply because it already has a WPILib plugin. The plugin exposes templates, ways to build the software and more making it very easy for newbies and beginners to immediately start coding. **BEWARE:** We do not recommend using any other IDE/Editor. If you are, it is your responsibility to set it up correctly. This is not a simple task as WPILib is not extensively supported.
+
+### Plugins
+
+We use the following plugins in VSCode:
+
+- ``Extension Pack for Java`` by Microsoft
+- ``C/C++ Extension Pack`` by Microsoft
+- ``WPILib Java Snippets`` by WPILib (Official)
+- ``markdownlint`` by David Anson (follow markdown linting guidelines)
+- ``Grammarly`` by Rahul Kadyan (useful when editing docs)
+- ``GitHub Actions`` by GitHub
+
+Additionally, check whether you have the ``WPILib`` plugin installed. It should be installed by the FRC installer described [here](https://github.com/Greeley-Robotics/installation). If you have any issues please raise an issue in the ``installation`` repository or look at already answered ones.
+
+### Tutorials
+
+Here are some tutorials to get started with using the IDE:
+
+- [VSCode Tutorial For Beginners - Getting Started With VSCode](https://www.youtube.com/watch?v=ORrELERGIHs)
+- [Using Git with Visual Studio Code (Official Beginner Tutorial)](https://www.youtube.com/watch?v=i_23KUAEtUM)
+- [WPILib VS Code Introduction - WPILib FRC Java Programming Tutorial Video 2](https://www.youtube.com/watch?v=niDZQifEYeE)
